@@ -1,0 +1,12 @@
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\appsettings.json
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\aws-lambda-tools-defaults.json
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.runtimeconfig.json
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.pdb
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.Core.pdb
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorldLayer.dll
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.Core.dll
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.dll
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorld.deps.json

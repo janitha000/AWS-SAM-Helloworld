@@ -1,0 +1,12 @@
+D:\Learning\.NET Core\AWSHelloWorld.Core\bin\Debug\net6.0\AWSHelloWorld.Core.deps.json
+D:\Learning\.NET Core\AWSHelloWorld.Core\bin\Debug\net6.0\AWSHelloWorld.Core.dll
+D:\Learning\.NET Core\AWSHelloWorld.Core\bin\Debug\net6.0\ref\AWSHelloWorld.Core.dll
+D:\Learning\.NET Core\AWSHelloWorld.Core\bin\Debug\net6.0\AWSHelloWorld.Core.pdb
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.csproj.AssemblyReference.cache
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.AssemblyInfoInputs.cache
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.AssemblyInfo.cs
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.csproj.CoreCompileInputs.cache
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.dll
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\ref\AWSHelloWorld.Core.dll
+D:\Learning\.NET Core\AWSHelloWorld.Core\obj\Debug\net6.0\AWSHelloWorld.Core.pdb

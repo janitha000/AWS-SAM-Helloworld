@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AWSHelloWorld.Core/1.0.0": {
+        "runtime": {
+          "AWSHelloWorld.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSHelloWorld.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

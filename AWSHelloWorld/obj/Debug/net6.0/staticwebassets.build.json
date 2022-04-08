@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0RCZz/u2lbfD8ivqMIB0f+l/nxiuMuaSgQtbGQXzdgk=",
+  "Source": "AWSHelloWorld",
+  "BasePath": "_content/AWSHelloWorld",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

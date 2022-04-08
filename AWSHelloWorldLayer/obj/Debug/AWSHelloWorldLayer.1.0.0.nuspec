@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AWSHelloWorldLayer</id>
+    <version>1.0.0</version>
+    <authors>AWSHelloWorldLayer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="AWSSDK.SQS" version="3.7.2.42" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.SimpleSystemsManagement" version="3.7.14.5" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.AspNetCoreServer" version="7.0.1" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Core" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Serialization.SystemTextJson" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Learning\.NET Core\AWSHelloWorldLayer\bin\Debug\net6.0\AWSHelloWorldLayer.runtimeconfig.json" target="lib\net6.0\AWSHelloWorldLayer.runtimeconfig.json" />
+    <file src="D:\Learning\.NET Core\AWSHelloWorldLayer\bin\Debug\net6.0\AWSHelloWorldLayer.dll" target="lib\net6.0\AWSHelloWorldLayer.dll" />
+  </files>
+</package>

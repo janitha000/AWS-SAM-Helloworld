@@ -1,0 +1,4 @@
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorldLayer.runtimeconfig.json
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorldLayer.pdb
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorldLayer.dll
+D:\Learning\.NET Core\AWSHelloWorld\bin\Release\net6.0\publish\AWSHelloWorldLayer.deps.json

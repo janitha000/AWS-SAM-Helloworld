@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AWSHelloWorldLayer
+build_property.ProjectDir = D:\Learning\.NET Core\AWSHelloWorldLayer\

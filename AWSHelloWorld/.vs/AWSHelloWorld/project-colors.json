@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37607067-eb2e-41f0-9869-0418a2bcbc65": {
+      "ProjectGuid": "37607067-eb2e-41f0-9869-0418a2bcbc65",
+      "DisplayName": "AWSHelloWorld",
+      "ColorIndex": 0
+    },
+    "2a7cb6a2-9fa3-43f8-b893-a88d96bc0611": {
+      "ProjectGuid": "2a7cb6a2-9fa3-43f8-b893-a88d96bc0611",
+      "DisplayName": "AWSHelloWorld.Tests",
+      "ColorIndex": 1
+    },
+    "666d8eb3-e5bd-47dc-927e-35a5ea3a3ddd": {
+      "ProjectGuid": "666d8eb3-e5bd-47dc-927e-35a5ea3a3ddd",
+      "DisplayName": "AWSHelloWorldFunc",
+      "ColorIndex": 2
+    },
+    "68dbb662-35a3-454c-8871-53f98c534847": {
+      "ProjectGuid": "68dbb662-35a3-454c-8871-53f98c534847",
+      "DisplayName": "AWSHelloWorld.Core",
+      "ColorIndex": 3
+    },
+    "f83805ae-92b2-45f3-8727-2ddf312565f7": {
+      "ProjectGuid": "f83805ae-92b2-45f3-8727-2ddf312565f7",
+      "DisplayName": "AWSServerless1.Tests",
+      "ColorIndex": 4
+    },
+    "45451881-454f-4e63-bbe8-3188ea858882": {
+      "ProjectGuid": "45451881-454f-4e63-bbe8-3188ea858882",
+      "DisplayName": "AWSServerless1",
+      "ColorIndex": 5
+    },
+    "31b17532-5da3-49ec-9842-48913f4947f7": {
+      "ProjectGuid": "31b17532-5da3-49ec-9842-48913f4947f7",
+      "DisplayName": "AWSLambda1",
+      "ColorIndex": 6
+    },
+    "15b2a7c1-e33f-4183-b01f-d5c0d6b08a42": {
+      "ProjectGuid": "15b2a7c1-e33f-4183-b01f-d5c0d6b08a42",
+      "DisplayName": "AWSServerless2",
+      "ColorIndex": 7
+    },
+    "9974b94c-f908-409f-ace1-ca2a89d4ec10": {
+      "ProjectGuid": "9974b94c-f908-409f-ace1-ca2a89d4ec10",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 8
+    },
+    "8481ffca-03ee-43b8-9b01-e1cf8c3107b5": {
+      "ProjectGuid": "8481ffca-03ee-43b8-9b01-e1cf8c3107b5",
+      "DisplayName": "AWSHelloWorldLayer",
+      "ColorIndex": 9
+    },
+    "e69f4db3-8fc6-44b9-b435-adcf65bb43cc": {
+      "ProjectGuid": "e69f4db3-8fc6-44b9-b435-adcf65bb43cc",
+      "DisplayName": "AWSHelloWorldLayer",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 11
+}
